@@ -1,1 +1,1 @@
-Información para el mentor: Leer readme de la rama template/mentor.
+## Clase 13 NUCBA: animaciones y transiciones
